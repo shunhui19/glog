@@ -1,0 +1,1 @@
+### glog is an efficient logging library that supports segmentation by time and size
